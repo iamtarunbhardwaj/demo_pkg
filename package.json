@@ -1,5 +1,5 @@
 {
-  "name": "isNullOrNot",
+  "name": "isnullornot_pkg",
   "version": "1.0.0",
   "description": "Practise publishing package to npm registry",
   "main": "index.js",
