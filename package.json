@@ -1,5 +1,5 @@
 {
-  "name": "demo_pkg",
+  "name": "isNullOrNot",
   "version": "1.0.0",
   "description": "Practise publishing package to npm registry",
   "main": "index.js",
